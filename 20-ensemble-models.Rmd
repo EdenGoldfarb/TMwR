@@ -32,7 +32,7 @@ In subsequent sections, we'll describe this process. However, before proceeding,
 
 In general, we'll talk about an MLP model as the *type* of model. Linear regression and support vector machines are other model types.
 
-Tuning parameters are an important aspect of a model. Back in Chapter \@ref(workflow-sets), the MLP model was tuned over 25 tuning parameter values. In the previous chapters, we've called these *candidate tuning parameter* values or *model configurations*. In literature on ensembling these have also been called the base models. 
+Tuning parameters are an important aspect of a model. Back in Chapter \@ref(workflow-sets), the MLP model was tuned over 25 tuning parameter values. In the previous chapters, we've called these *candidate tuning parameter* values or *model configurations*. In literature on ensembling, these have also been called the base models. 
 
 :::rmdnote
 We'll use the term *candidate members* to describe the possible model configurations (of all model types) that might be included in the stacking ensemble.
